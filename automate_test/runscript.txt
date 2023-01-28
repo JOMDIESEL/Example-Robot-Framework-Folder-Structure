@@ -1,0 +1,12 @@
+robot -d /Users/phattharaphon/Documents/Repo/eagle-automation/automate_test/result -T AT_001.robot
+
+
+
+
+
+
+
+
+
+
+
